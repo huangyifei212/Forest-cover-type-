@@ -1,5 +1,4 @@
 # Forest-cover-type-
-杭电/数据挖掘/森林预测/Kaggle
 ![build](https://img.shields.io/badge/build-passing-success)
 ![build](https://img.shields.io/badge/python-v3.7-ff68b4)
 ![build](https://img.shields.io/badge/django-v3.0.4-blueviolet)
