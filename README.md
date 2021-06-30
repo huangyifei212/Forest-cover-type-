@@ -1,4 +1,4 @@
-# Forest-cover-type-
+# Forest-cover-type
 ![build](https://img.shields.io/badge/build-passing-success)
 ![build](https://img.shields.io/badge/python-v3.7-ff68b4)
 ![build](https://img.shields.io/badge/license-GPL-blue)
@@ -24,7 +24,7 @@
 
 ## 安装
 ### 赛题数据
-[下载](数据源:http://archive.ics.uci.edu/ml/datasets/Covertype)
+[数据](http://archive.ics.uci.edu/ml/datasets/Covertype)
 或者直接从covtpye.date处下载即可。
 
 ### 依赖
