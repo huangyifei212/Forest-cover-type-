@@ -1,7 +1,6 @@
 # Forest-cover-type-
 ![build](https://img.shields.io/badge/build-passing-success)
 ![build](https://img.shields.io/badge/python-v3.7-ff68b4)
-![build](https://img.shields.io/badge/django-v3.0.4-blueviolet)
 ![build](https://img.shields.io/badge/license-GPL-blue)
 
 本项目来源于Kaggle上的一道赛题——Forest-cover-type，根据当地现有的生态条件来预测可能生长的不同森林类型。该项目主要任务是要根据给定的Covertype Data Set数据集，使用不同的数据分类方法，预测森林类型，并计算不同分类方法下的准确率。
